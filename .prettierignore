@@ -1,0 +1,13 @@
+# build
+build
+node_modules
+public
+.next
+
+# root/config
+*.md
+*.json
+.env.*
+.gitignore
+
+styles
