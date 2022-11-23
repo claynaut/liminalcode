@@ -1,0 +1,2 @@
+date,timestamp,metal,exchange,currency,price,prev_close_price,ch,chp,price_gram_24k,price_gram_22k,price_gram_21k,price_gram_20k,price_gram_18k
+2016-01-01T10:30:00.000Z,1451644200000,XAU,LBMA,USD,0,1062.25,-1062.25,,0,0,0,0,0
